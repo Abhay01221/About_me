@@ -164,9 +164,9 @@ Feel free to fork this project and customize it for your own portfolio!
 
 ## 📧 Contact
 
-- Email: abhay@example.com
-- GitHub: [@abhay](https://github.com/abhay)
-- LinkedIn: [abhay](https://linkedin.com/in/abhay)
+- Email: abhaysawale9011@gmail.com
+- GitHub: [@Abhay01221](https://github.com/Abhay01221)
+- LinkedIn: [abhay-sawale-47856628a](http://linkedin.com/in/abhay-sawale-47856628a/)
 
 ---
 
