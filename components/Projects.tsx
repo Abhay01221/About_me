@@ -158,7 +158,7 @@ export default function Projects() {
           className="text-center mt-16"
         >
           <motion.a
-            href="https://github.com/abhay"
+            href="https://github.com/Abhay01221"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}

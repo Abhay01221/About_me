@@ -9,13 +9,13 @@ const socialLinks = [
   {
     name: 'GitHub',
     icon: FaGithub,
-    href: 'https://github.com/abhay',
+    href: 'https://github.com/Abhay01221',
     color: 'hover:text-purple-400',
   },
   {
     name: 'LinkedIn',
     icon: FaLinkedin,
-    href: 'https://linkedin.com/in/abhay',
+    href: 'http://linkedin.com/in/abhay-sawale-47856628a/',
     color: 'hover:text-cyan-400',
   },
   {
@@ -27,7 +27,7 @@ const socialLinks = [
   {
     name: 'Email',
     icon: Mail,
-    href: 'mailto:abhay@example.com',
+    href: 'mailto:abhaysawale9011@gmail.com',
     color: 'hover:text-pink-400',
   },
 ];
@@ -119,8 +119,8 @@ export default function Contact() {
                 </div>
                 <div className="flex items-center gap-3 text-zinc-300">
                   <Mail className="w-5 h-5 text-cyan-400" />
-                  <a href="mailto:abhay@example.com" className="hover:text-white transition-colors">
-                    abhay@example.com
+                  <a href="mailto:abhaysawale9011@gmail.com" className="hover:text-white transition-colors">
+                    abhaysawale9011@gmail.com
                   </a>
                 </div>
               </div>
